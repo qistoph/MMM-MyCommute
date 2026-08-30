@@ -28,8 +28,7 @@
   "homepage": "https://github.com/qistoph/MMM-MyCommute#readme",
   "dependencies": {
     "moment": "^2.29.1",
-    "moment-duration-format": "^1.3.0",
-    "request": "^2.88.2"
+    "moment-duration-format": "^1.3.0"
   },
   "devDependencies": {
     "grunt": "^1.3.0",
